@@ -1,16 +1,18 @@
-## Hi there 👋
+# higherbros 👋
 
-<!--
-**higherbros/higherbros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Remote developer • 🎮 Gamer • 🌱 Always learning
 
-Here are some ideas to get you started:
+## About me 🙋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🧑‍💻 Working remotely
+- 🎧 Into vibe coding & gaming
+- 📚 Open to learning new things
+- 🕺 Fun fact: I used to breakdance in high school
+
+## Tech 🧰
+
+[![My Skills](https://skillicons.dev/icons?i=ts,js,swift,kotlin,react,nextjs,tailwind,nodejs,express,aws&perline=5)](https://skillicons.dev)
+
+## Connect 🤝
+
+- ✉️ [juncenzhou@higherbros.me](mailto:juncenzhou@higherbros.me)
